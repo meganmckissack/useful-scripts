@@ -1,5 +1,5 @@
 
-separate video into images - can adjust frames per second exctracted
+separate video into images - can adjust frames per second extracted
 (example is to extract an image every 30 seconds and name frames sequentialy)
 
 ```
